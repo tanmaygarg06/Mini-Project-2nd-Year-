@@ -67,9 +67,9 @@ Power BI is used only for the dashboard visuals (reports and charts).
 Replace these placeholders with your actual URLs:
 
 - **Project site (S3 static hosting):**  
-  `http://<your-bucket-name>.s3-website-<region>.amazonaws.com`
+  https://ap-south-1l2tsdlsns.auth.ap-south-1.amazoncognito.com/login?client_id=298qto8mkdcq69laah8ig543hj&response_type=code&scope=email+openid+phone&redirect_uri=https%3A%2F%2Fstockdashboardtanmay.s3.ap-south-1.amazonaws.com%2Fdashboard.html
 - **Power BI report:**  
-  `https://app.powerbi.com/groups/<workspace-id>/reports/<report-id>`
+  https://app.powerbi.com/groups/me/reports/ddad24c3-606e-452a-8289-d076fa239014/cc060d6d35cec6e80d23?experience=power-bi
 
 ---
 
