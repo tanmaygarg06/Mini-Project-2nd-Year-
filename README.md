@@ -1,4 +1,4 @@
-# Real-Time Style Stock Dashboard (AWS + Power BI)
+# Real-Time Stock Dashboard (AWS + Power BI)
 
 This project is a **stock analytics dashboard** that stores stock data on AWS and visualizes it in **Microsoft Power BI**.  
 All backend and hosting are built on the **AWS Free Tier**, using only:
